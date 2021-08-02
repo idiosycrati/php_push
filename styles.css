@@ -1,0 +1,21 @@
+/* * {
+    margin: 0; padding: 0;
+    } */
+.d1{
+
+    background-color: black;
+    /* margin: 0% 0% 0% 0%;  */
+    display: inline-block;
+    border: green solid 1px;
+    color: white;
+
+}
+.d2{
+
+    background-color: #ffa31a;
+    /* margin: 0% 0% 0% 0%;  */
+    display: inline-block;
+    border: black solid 1px;
+    padding-right: 1%;
+    padding-left: 1%;
+}
